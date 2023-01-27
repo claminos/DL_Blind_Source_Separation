@@ -1,4 +1,4 @@
-# Development of an Augmented Reality System
+# Blind Source Separation
 ###### Deep Learning - Master's Degree in Artificial Intelligence, University of Bologna
 
 This is the delivery of an inidividual project as evaluation of the Deep Learning course. The aim of the project is to separate an image obtained as a sum of two images into its components. The two images summed together come from different datasets: **mnist** and **fashion_mnist**, respectively.
